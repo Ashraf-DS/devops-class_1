@@ -2,4 +2,8 @@ This is my first text.
 now i am modifying my text after doing commit .
 now i am changing again ........
 
+<<<<<<< HEAD
 hey bro i changing after pushing
+=======
+hey bro i am changing after pushing
+>>>>>>> 48ca755c765957f14e01e5cbc981481a46598ff4
